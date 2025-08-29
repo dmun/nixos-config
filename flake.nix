@@ -10,7 +10,7 @@
       system = "x86_64-linux";
       modules = [
         ./hosts/homelab
-        ./users/${username}
+        ./users/david
       ];
     };
   };
